@@ -1,6 +1,6 @@
-// export const BASE_URL = "https://paperpulse-backend.onrender.com";
-export const BASE_URL = "http://127.0.0.1:8000/";
 
+export const BASE_URL = "http://127.0.0.1:8000/";
+export const BASE_URL = "https://newsers-backend.onrender.com/";
 // export const BASE_URL = "http://localhost:8000";
 
 import TimeAgo from "javascript-time-ago";
