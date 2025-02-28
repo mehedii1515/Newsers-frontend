@@ -7,9 +7,8 @@ export default function Footer() {
                 <div className="w-1/3 box-border p-4">
                     <div>
                         <h1 className="text-xl uppercase py-4">
-                            <span className="text-2xl ml-3">T</span>he 
-                            <span className="text-2xl ml-3">D</span>aily 
-                            <span className="text-2xl ml-3">N</span>ews
+                            <span className="text-2xl ml-3">N</span>ewsers
+                            
                         </h1>
                         <hr/>
                         <div className="p-5 flex gap-3">
